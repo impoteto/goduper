@@ -13,17 +13,21 @@ it has 2 options:
 
 ## how?
 
-usage: 
+**usage:** 
 
 `gpduper /path/to/your/directory`
 
-build:
+**build:**
 
-just run 
+get the goduper.go file or git it if you know how to do so, whatever you do, just finally run:
 
 `go build goduper.go`
 
-and it's compiled 😃
+and it's compiled in a jiffy(literally) 😃
+
+**don't want to build?**
+
+head to [releases](https://github.com/impoteto/goduper/releases), I manually build the binary for linux, too noob to use github workflows etc.
 
 add to path if you need to
 
