@@ -51,5 +51,5 @@ there are a buch of stuff missing or to be improved , I would like to correct th
 
 ## contribution?
 
-there isn't much , but you're welcome to do so
+there isn't much , but you're welcome to contribute, be it a issue, feature request or PR
 
