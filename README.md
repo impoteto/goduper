@@ -39,7 +39,7 @@ or any other path for that matter
 
 ## future
 
-there are a buch of stuff missing or to be improved , I would like to correct these stuff overtime:
+there are a buch of stuff missing or to be improved , I would like to correct these stuff over time:
 
 **1-bad cross platform support**
 
@@ -49,4 +49,7 @@ there are a buch of stuff missing or to be improved , I would like to correct th
 
 **4 - improve performance even more, bacuase why not?**
 
+## contribution?
+
+there isn't much , but you're welcome to do so
 
