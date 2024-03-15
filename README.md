@@ -31,7 +31,7 @@ head to [releases](https://github.com/impoteto/goduper/releases), I manually bui
 
 add to path if you need to
 
-for example,do a cp thing-y on a gnu/linux system:
+for example,do a cp or mv thing-y on a gnu/linux system:
 
 `sudo cp goduper /usr/local/bin`
 
