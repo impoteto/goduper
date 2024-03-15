@@ -15,7 +15,7 @@ it has 2 options:
 
 **usage:** 
 
-`gpduper /path/to/your/directory`
+`./gpduper /path/to/your/directory` (if it isn't in path)
 
 **build:**
 
